@@ -1,1 +1,1 @@
-../../../TestAndroid/TestAndroid.uproject  /Game/2DSideScrollerBP/Maps/Main_Level -Messaging -SessionId=B6E7682647CCB1D6B774489DFB6FFCAF -SessionOwner="Administrator" -SessionName="Launch On Device" -iterative
+../../../TestAndroid/TestAndroid.uproject  /Game/Maps/MainMenu -Messaging -SessionId=551300F44529006DF4C1AA9F901B0C9A -SessionOwner="Administrator" -SessionName="Launch On Device" -iterative
