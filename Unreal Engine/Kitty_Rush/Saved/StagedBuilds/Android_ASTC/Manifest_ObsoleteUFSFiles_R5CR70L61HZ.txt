@@ -1,0 +1,13 @@
+Engine/Content/EditorSounds/Notifications/CompileFailed.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed.uexp
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset
+Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uexp
+Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uasset
+Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.ubulk
+Engine/Content/EngineMaterials/DefaultDiffuse_TC_Masks.uexp
+TestAndroid/Content/2DSideScroller/Sprites/Ledge.uasset
+TestAndroid/Content/2DSideScroller/Sprites/Ledge.uexp
+TestAndroid/Content/2DSideScroller/Textures/2DBackground.uasset
+TestAndroid/Content/2DSideScroller/Textures/2DBackground.uexp
+TestAndroid/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset
+TestAndroid/Content/2DSideScroller/Textures/2DBackgroundBlockAtlas.uexp
