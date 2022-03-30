@@ -133,13 +133,13 @@ MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\
 activity#com.epicgames.ue4.SplashActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:4:5-9:16
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:4:166-202
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:166-203
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:63-95
 	android:launchMode
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:134-165
 	android:debuggable
-		ADDED from Z:\app\src\main\AndroidManifest.xml:4:203-228
+		ADDED from Z:\app\src\main\AndroidManifest.xml:4:204-229
 	android:theme
 		ADDED from Z:\app\src\main\AndroidManifest.xml:4:96-133
 	android:name
@@ -157,13 +157,13 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:7:9-69
 activity#com.epicgames.ue4.GameActivity
 ADDED from Z:\app\src\main\AndroidManifest.xml:10:5-12:16
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:325-361
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:325-362
 	android:label
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:61-93
 	android:launchMode
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:293-324
 	android:debuggable
-		ADDED from Z:\app\src\main\AndroidManifest.xml:10:362-387
+		ADDED from Z:\app\src\main\AndroidManifest.xml:10:363-388
 	android:resizeableActivity
 		ADDED from Z:\app\src\main\AndroidManifest.xml:10:258-292
 	android:configChanges
@@ -179,13 +179,13 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:11:7-76
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:11:18-53
 activity#com.YourCompany.TestAndroid.DownloaderActivity
-ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-221
+ADDED from Z:\app\src\main\AndroidManifest.xml:13:5-222
 	android:screenOrientation
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-86
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:50-87
 	android:configChanges
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:87-180
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:88-181
 	android:theme
-		ADDED from Z:\app\src\main\AndroidManifest.xml:13:181-218
+		ADDED from Z:\app\src\main\AndroidManifest.xml:13:182-219
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:13:15-49
 meta-data#com.epicgames.ue4.GameActivity.EngineVersion

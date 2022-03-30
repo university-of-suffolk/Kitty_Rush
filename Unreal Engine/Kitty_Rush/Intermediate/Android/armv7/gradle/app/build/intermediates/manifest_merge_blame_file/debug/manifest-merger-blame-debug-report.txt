@@ -72,13 +72,13 @@
 38            android:name="com.epicgames.ue4.SplashActivity"
 38-->Z:\app\src\main\AndroidManifest.xml:4:15-62
 39            android:debuggable="true"
-39-->Z:\app\src\main\AndroidManifest.xml:4:203-228
+39-->Z:\app\src\main\AndroidManifest.xml:4:204-229
 40            android:label="@string/app_name"
 40-->Z:\app\src\main\AndroidManifest.xml:4:63-95
 41            android:launchMode="singleTask"
 41-->Z:\app\src\main\AndroidManifest.xml:4:134-165
-42            android:screenOrientation="portrait"
-42-->Z:\app\src\main\AndroidManifest.xml:4:166-202
+42            android:screenOrientation="landscape"
+42-->Z:\app\src\main\AndroidManifest.xml:4:166-203
 43            android:theme="@style/UE4SplashTheme" >
 43-->Z:\app\src\main\AndroidManifest.xml:4:96-133
 44            <intent-filter>
@@ -99,15 +99,15 @@
 52            android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard"
 52-->Z:\app\src\main\AndroidManifest.xml:10:132-257
 53            android:debuggable="true"
-53-->Z:\app\src\main\AndroidManifest.xml:10:362-387
+53-->Z:\app\src\main\AndroidManifest.xml:10:363-388
 54            android:label="@string/app_name"
 54-->Z:\app\src\main\AndroidManifest.xml:10:61-93
 55            android:launchMode="singleTask"
 55-->Z:\app\src\main\AndroidManifest.xml:10:293-324
 56            android:resizeableActivity="false"
 56-->Z:\app\src\main\AndroidManifest.xml:10:258-292
-57            android:screenOrientation="portrait"
-57-->Z:\app\src\main\AndroidManifest.xml:10:325-361
+57            android:screenOrientation="landscape"
+57-->Z:\app\src\main\AndroidManifest.xml:10:325-362
 58            android:theme="@style/UE4SplashTheme" >
 58-->Z:\app\src\main\AndroidManifest.xml:10:94-131
 59            <meta-data
@@ -118,15 +118,15 @@
 61-->Z:\app\src\main\AndroidManifest.xml:11:54-73
 62        </activity>
 63        <activity
-63-->Z:\app\src\main\AndroidManifest.xml:13:5-221
+63-->Z:\app\src\main\AndroidManifest.xml:13:5-222
 64            android:name="com.YourCompany.TestAndroid.DownloaderActivity"
 64-->Z:\app\src\main\AndroidManifest.xml:13:15-49
 65            android:configChanges="mcc|mnc|uiMode|density|screenSize|orientation|keyboardHidden|keyboard"
-65-->Z:\app\src\main\AndroidManifest.xml:13:87-180
-66            android:screenOrientation="portrait"
-66-->Z:\app\src\main\AndroidManifest.xml:13:50-86
+65-->Z:\app\src\main\AndroidManifest.xml:13:88-181
+66            android:screenOrientation="landscape"
+66-->Z:\app\src\main\AndroidManifest.xml:13:50-87
 67            android:theme="@style/UE4SplashTheme" />
-67-->Z:\app\src\main\AndroidManifest.xml:13:181-218
+67-->Z:\app\src\main\AndroidManifest.xml:13:182-219
 68
 69        <meta-data
 69-->Z:\app\src\main\AndroidManifest.xml:14:5-101
